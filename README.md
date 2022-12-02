@@ -118,7 +118,9 @@ You can use this project for your IOT applications and build upon it
 
 ## Electrical diagrams
 
-<img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>convert geojson to json</a><br />"<img/>
+<img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br />"<img/>
+<img align="center"><a href="https://ibb.co/gvvrMRM"><img src="https://i.ibb.co/N11F6y6/How-to-Setup-the-DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram.png" alt="How-to-Setup-the-DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram" border="0"></a><img/>
+
 
 <p align="right">back to top</a>)</p>
 
@@ -138,13 +140,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
