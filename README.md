@@ -83,7 +83,8 @@ Also, we can add Automation for ventilation, AC, Humidifiers, and smart thermost
 One of our key features is the proposal of checkups, reminders, linking with a personal doctor, and psychological assistance.
 
 We have also created a fully custom UI with more of the mentioned features showcased, but due to the lack of time, we are only presenting the UI, here is the link:
-
+https://www.figma.com/file/ItIu93NUFY5YTfyziBAXDx/Smart-home-dashboard-free-light?node-id=0%3A1&t=yBjsy75tXor3wVvA-1
+it is also attached as a pdf in the main files
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
