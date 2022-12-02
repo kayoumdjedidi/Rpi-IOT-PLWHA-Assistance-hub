@@ -118,9 +118,9 @@ You can use this project for your IOT applications and build upon it
 
 ## Electrical diagrams
 
-<img align="center">href=""<img/>
+<img align="center">href="[Demo]"<img/>
 
-<p align="right">(<a href="[Demo]">back to top</a>)</p>
+<p align="right">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
