@@ -86,6 +86,35 @@ We have also created a fully custom UI with more of the mentioned features showc
 https://www.figma.com/file/ItIu93NUFY5YTfyziBAXDx/Smart-home-dashboard-free-light?node-id=0%3A1&t=yBjsy75tXor3wVvA-1
 it is also attached as a pdf in the main files
 
+
+### Components Required for the physical prototype
+Raspberry Pi
+DHT11 Sensor
+BMP180 Sensor
+Jumper Wires
+
+Step 1: Thingspeak Account Setup
+
+For creating your channel on Thingspeak you first need to Sign up on Thingspeak. In case if you already have an account on Thingspeak, sign in using your id and password.
+
+Step 2: Create a Channel for Your Data
+
+Once you Sign in, create a new channel by clicking “New Channel” button
+Thingspeak Setup for Pi Weather Station
+
+After clicking on “New Channel”, enter the Name and Description of the data you want to upload on this channel.
+
+Enter the name of your data, ‘Humidity’ in Field1, ‘Temp’ in Field2 and ‘Pressure’ in Field3. If you want to use more Fields you can check the box next to Field option and enter the name and description of your data.
+
+After this click on save channel button to save your details.
+
+Step 3: API Key
+
+To send data to Thingspeak, we need a unique API key, which we will use later in our code to upload our sensor data to Thingspeak Website.
+Click on “API Keys” button to get your unique API key for uploading your sensor data.
+API Key of ThingSpeak for Raspberry Pi Weather Station
+Now copy your “API Key”  because we need to use this in our code.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
