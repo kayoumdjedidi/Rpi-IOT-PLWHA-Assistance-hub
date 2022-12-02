@@ -163,9 +163,7 @@ You can use this project for your IOT applications and build upon it
 
 <img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br /><img/>
 
-<iframe width="420" height="315"
-src="https://youtu.be/U4EdzMZB858">
-</iframe>
+<iframe width="1481" height="554" src="https://www.youtube.com/embed/U4EdzMZB858" title="Rpi-IOT-PLWHA-Assistance-hub" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <p align="right">back to top</a>)</p>
