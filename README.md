@@ -67,20 +67,24 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project consists of the creation of a fully fledged IOT Hub for people living with HIV/AIDS, it is going to asssit them with their daily tasks and facilitate their lives, Newly diagnosed HIV-infected patients may have little knowledge or distorted picture about HIV disease. A commonly held belief, especially in the pre-HAART era, is that one would have to give up any plan for the future and live in ill health for the rest of the days to come. A strong belief that HIV infection is fatal and terminal may result in the loss of hope in life and living.
+This project consists of the creation of a fully-fledged IoT Hub for people living with HIV/AIDS, it is going to assist them with their daily tasks and facilitate their lives, Newly diagnosed HIV-infected patients may have little knowledge or a distorted picture of HIV disease. A commonly held belief, especially in the pre-HAART era, is that one would have to give up any plan for the future and live in ill health for the rest of the days to come. A strong belief that HIV infection is fatal and terminal may result in the loss of hope in life and living.
 
-ANd this cloud connected device will act as an assitant to these people in dier need of assistance and support.
+And this cloud-connected device will act as an assistant to these people in dire need of assistance and support.
 
-First of, we have the home sensors suits, in order to assure the maximim ocnfmort and best living conditions for sensitive patients, it consists of:
--Tempreature sensor
--Humidty sensor
+First, we have the home sensors suits, to assure the maximum comfort and best living conditions for sensitive patients, it consists of:
+-Temperature sensor
+-Humidity sensor
 -Quality of air sensor
 -Fire detector
 -Window and door opening detector
 
-Also, we have the avbility to add Automation for ventillation, AC, Humidifiers, and smart thermostats.
+Also, we can add Automation for ventilation, AC, Humidifiers, and smart thermostats.
 
-One of our key features is the proposal of checkups, reminders, linking with personal doctor, and psychological assistance.
+One of our key features is the proposal of checkups, reminders, linking with a personal doctor, and psychological assistance.
+
+We have also created a fully custom UI with more of the mentioned features showcased, but due to the lack of time, we are only presenting the UI, here is the link:
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -90,7 +94,8 @@ This section should list any major frameworks/libraries used to bootstrap this p
 
 * Python
 * Thinkspeak
-* NextCloud
+* Figma
+* AdafruitDHT
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,9 +125,7 @@ You can use this project for your IOT applications and build upon it
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/5MqSPC4/rasp-dht11-bb-min.jpg" alt="rasp-dht11-bb-min" border="0"></a>
 
-<img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br />"<img/>
-
-
+<img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br /><img/>
 
 
 <p align="right">back to top</a>)</p>
@@ -143,10 +146,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
