@@ -94,6 +94,7 @@ This section should list any major frameworks/libraries used to bootstrap this p
 
 * Python
 * Thinkspeak
+* https://www.mathworks.com/help/thingspeak/writedata.html
 * Figma
 * AdafruitDHT
 
