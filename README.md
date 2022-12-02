@@ -118,7 +118,7 @@ You can use this project for your IOT applications and build upon it
 
 ## Electrical diagrams
 
-<a href="https://ibb.co/gvvrMRM"><img src="https://i.ibb.co/N11F6y6/How-to-Setup-the-DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram.png" alt="How-to-Setup-the-DHT11-on-the-Raspberry-Pi-Three-pin-DHT11-Wiring-Diagram" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5MqSPC4/rasp-dht11-bb-min.jpg" alt="rasp-dht11-bb-min" border="0"></a>
 
 <img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br />"<img/>
 
