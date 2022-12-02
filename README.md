@@ -163,9 +163,7 @@ You can use this project for your IOT applications and build upon it
 
 <img align="center"><a href="https://ibb.co/3z5v6Nv"><img src="https://i.ibb.co/HdLCwzC/317247122-471125848427931-3892022894364168050-n.jpg" alt="317247122-471125848427931-3892022894364168050-n" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'></a><br /><img/>
 
-<iframe width="420" height="315"
-src="[https://www.youtube.com/embed/tgbNymZ7vqY](https://www.youtube.com/watch?v=U4EdzMZB858)">
-</iframe>
+Check out our Demo video on Youtube: https://www.youtube.com/watch?v=U4EdzMZB858
 
 <p align="right">back to top</a>)</p>
 
