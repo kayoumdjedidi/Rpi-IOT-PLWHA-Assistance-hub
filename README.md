@@ -140,6 +140,11 @@ all you need to do is run the python script named final.py
 ### Prerequisites
 Have the necessary libraries installed
 
+import thingspeak
+import time
+import Adafruit_DHT
+import requests
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
