@@ -86,6 +86,7 @@ We have also created a fully custom UI with more of the mentioned features showc
 https://www.figma.com/file/ItIu93NUFY5YTfyziBAXDx/Smart-home-dashboard-free-light?node-id=0%3A1&t=yBjsy75tXor3wVvA-1
 it is also attached as a pdf in the main files
 
+For visualisation, visit this link: [https://thingspeak.com/channels/1966402](https://thingspeak.com/channels/1966402)
 
 ### Components Required for the physical prototype
 Raspberry Pi
